@@ -1,0 +1,57 @@
+[
+  {
+    "productCode": "S10_1678",
+    "productName": "1969 Harley Davidson Ultimate Chopper",
+    "productLine": "Motorcycles",
+    "productScale": "1:10",
+    "productVendor": "Min Lin Diecast",
+    "productDescription": "This replica features working kickstand, front suspension, gear-shift lever, footbrake lever, drive chain, and wheels with rotating spokes.",
+    "quantityInStock": 7933,
+    "buyPrice": 48.81,
+    "MSRP": 95.70
+  },
+  {
+    "productCode": "S10_1949",
+    "productName": "1952 Alpine Renault 1300",
+    "productLine": "Classic Cars",
+    "productScale": "1:10",
+    "productVendor": "Classic Metal Creations",
+    "productDescription": "Turnable front wheels; steering function; detailed interior; original logos.",
+    "quantityInStock": 7305,
+    "buyPrice": 98.58,
+    "MSRP": 214.30
+  },
+  {
+    "productCode": "S10_2016",
+    "productName": "1996 Moto Guzzi 1100i",
+    "productLine": "Motorcycles",
+    "productScale": "1:10",
+    "productVendor": "Highway 66 Mini Classics",
+    "productDescription": "Official Moto Guzzi logos and branding. Features working kickstand and removable seat.",
+    "quantityInStock": 6625,
+    "buyPrice": 68.99,
+    "MSRP": 118.99
+  },
+  {
+    "productCode": "S12_1099",
+    "productName": "2003 Harley-Davidson Eagle Drag Bike",
+    "productLine": "Motorcycles",
+    "productScale": "1:10",
+    "productVendor": "Red Start Diecast",
+    "productDescription": "This model features realistic detail in the engine and body, with functioning kickstand.",
+    "quantityInStock": 5582,
+    "buyPrice": 91.02,
+    "MSRP": 193.66
+  },
+  {
+    "productCode": "S18_1749",
+    "productName": "1957 Vespa GS150",
+    "productLine": "Motorcycles",
+    "productScale": "1:10",
+    "productVendor": "Motor City Art Classics",
+    "productDescription": "Realistic rubber tires and handlebars. Fully operational kickstand included.",
+    "quantityInStock": 2173,
+    "buyPrice": 32.95,
+    "MSRP": 66.01
+  }
+]
